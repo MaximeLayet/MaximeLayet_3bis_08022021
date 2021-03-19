@@ -1,0 +1,19 @@
+{
+  "name": "maximelayet_3_08022021",
+  "version": "1.0.0",
+  "description": "Projet 3 OhMyFood",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch ./sass/main.scss:.public/css/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaximeLayet/MaximeLayet_3_08022021.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaximeLayet/MaximeLayet_3_08022021/issues"
+  },
+  "homepage": "https://github.com/MaximeLayet/MaximeLayet_3_08022021#readme"
+}

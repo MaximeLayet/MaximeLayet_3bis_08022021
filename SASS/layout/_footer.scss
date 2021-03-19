@@ -1,0 +1,40 @@
+footer{
+    background-color:$colour-background-footer;
+    color:$font-colour-secondary;
+    padding: 30px;
+        img.footer-logo{
+            filter:invert(100%);
+            padding: 15px;
+            padding-left:0;
+            width: 150px;
+            object-fit: cover;
+        }
+                nav{
+                    margin-left: -2.5rem;
+                }
+                    p{
+                        margin-top:0;
+                    }
+}
+
+i.footer-restaurant{
+    margin-right:22px;
+}
+
+i.footer-link{
+    margin-right:15px;
+}
+
+ul.footer{
+    list-style: none;
+    flex-direction: column;
+        li{
+            padding-bottom: 20px;
+        }
+}
+
+a.footer-mail_link {
+    text-decoration: none;
+    color: $font-colour-secondary;
+}
+
